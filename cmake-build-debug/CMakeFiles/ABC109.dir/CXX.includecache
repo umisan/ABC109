@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/tumin/Documents/ABC109/main.cpp
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+math.h
+-
+queue
+-
+
